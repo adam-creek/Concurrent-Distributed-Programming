@@ -1,5 +1,5 @@
 /*
-  Task 1.1P Sense-Think-Act Board
+  Task 1.1P Sense-Think-Act Board as Ardunio File
 */
 
 // Set variable &constants
